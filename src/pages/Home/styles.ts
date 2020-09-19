@@ -1,5 +1,4 @@
 import styled from 'styled-components';
 
-export const Container = styled.div`
-
-`;
+// eslint-disable-next-line import/prefer-default-export
+export const Container = styled.div``;
